@@ -1,0 +1,7 @@
+#searchButton {
+    border: 1px solid black;
+    width: fit-content;
+    border-radius: 1rem;
+    padding: 0.3rem 1rem;
+}
+
